@@ -1,2 +1,2 @@
-# MountBlueCheats_Remake
-Remake of the console version of Mount Blue Cheats
+# Mount Blue Cheats
+Cheats for Mount Blue
